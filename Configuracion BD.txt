@@ -1,0 +1,11 @@
+-------------------
+DATOS ADMIN BD:
+USUARIO: usuario
+CLAVE: admin
+-------------------
+
+
+-------------------
+MySql - Wampp - Apache:
+NOMBRE BASE DE DATOS: hoteltpo3
+-------------------

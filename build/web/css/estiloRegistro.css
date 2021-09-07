@@ -1,0 +1,33 @@
+nav{
+  margin-bottom: 30px;
+}
+
+body{ 
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+.divP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    background: palevioletred;
+    padding: 10px; 
+    border-radius: 100px;
+  }
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.ocultar {
+    display: none;
+}
+ 
+.mostrar {
+    display: block;
+}

@@ -1,0 +1,12 @@
+.divHuesped1.screen-reader-text:hover{
+  background-color:aliceblue !important;
+}
+
+h3,.pe{
+  color: black; 
+  font-style: italic;
+  font-variant: small-caps;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 5px;
+  font-size: 20px;
+}
