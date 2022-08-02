@@ -11,10 +11,10 @@
     <exclude-unlisted-classes>true</exclude-unlisted-classes>
     <shared-cache-mode>ALL</shared-cache-mode>
     <properties>
-      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/hoteltpo3?serverTimezone=UTC"/>
-      <property name="javax.persistence.jdbc.user" value="usuario"/>
+      <property name="javax.persistence.jdbc.url" value="jdbc:mysql://bm3fwoifluckhjgtzgq4-mysql.services.clever-cloud.com:3306/bm3fwoifluckhjgtzgq4?serverTimezone=UTC"/>
+      <property name="javax.persistence.jdbc.user" value="u4hbnmw0b1pgf2sb"/>
       <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
-      <property name="javax.persistence.jdbc.password" value="admin"/>
+      <property name="javax.persistence.jdbc.password" value="fGsQNi0gZ6H3EllwDqsX"/>
       <property name="javax.persistence.schema-generation.database.action" value="create"/>
     </properties>
   </persistence-unit>
